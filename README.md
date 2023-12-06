@@ -29,7 +29,8 @@ Success in our project is constructing a slingshot in a safe and ethical way tha
 
 * Safety Concern 1: Slingshot falls over
   * In order to prevent the slingshot from falling on a person 😱😱😱. We will put a weight on the bottom of the slingshot in which the weight exceeds the horizontal component of the tension force from the band, therefore preventing the slingshot from falling
- 
+* Safety Concern 2: What if someone is in the way of the foam ball
+  * If someone or many someones are in the way of the launch of the ball we will tell everyone to clear out in order to minimize the chances of someone getting hurt or worse 💀. 
 
 
 
