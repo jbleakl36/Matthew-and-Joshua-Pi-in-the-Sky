@@ -8,16 +8,21 @@
 
 ## Slingshot is our choice!!
 
+![0](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/cb3f4352-692a-481a-b636-48cc2c99698f)
+
+
+
 ## Materials
-* Two wooden poles
-* weight
-* rubber band (Large)
+* Two wood beams
+* One weight (Heaviness is currently undetermined)
+* Two Rubber bands (Large)
 * Pico
-* accelerometer
-* circuit board
-* screws
-* foam ball
-* holster
+* Accelerometer
+* Circuit board
+* Four Screws (To secure the wooden beams)
+* Two foam ball half circle shells 
+* One Holster (For the foam ball)
+* One large wood board (For the beams to slide into)
 
 
 
