@@ -8,7 +8,16 @@
 
 ## Slingshot is our choice!!
 
-
+## Materials
+* Two wooden poles
+* weight
+* rubber band (Large)
+* Pico
+* accelerometer
+* circuit board
+* screws
+* foam ball
+* holster
 
 
 
