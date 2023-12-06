@@ -32,7 +32,7 @@ Success in our project is constructing a slingshot in a safe and ethical way tha
 * Safety Concern 2: What if someone is in the way of the foam ball
   * If someone or many someones are in the way of the launch of the ball we will tell everyone to clear out in order to minimize the chances of someone getting hurt or worse 💀.
 * Safety Concern 3: The slingshot backfires
-  We do not want the slingshot to backfire and hit someone in the face or worse. Because of this we will have the launcher take safety precasuions like getting out of the way when they launch.
+  * We do not want the slingshot to backfire and hit someone in the face or worse 😭. Because of this we will have the launcher take safety precasuions like getting out of the way when they launch.
 
 
 
