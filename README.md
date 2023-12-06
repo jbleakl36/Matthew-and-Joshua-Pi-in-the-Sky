@@ -24,9 +24,12 @@
 * One Holster (For the foam ball)
 * One large wood board (For the beams to slide into)
 
+## What is Success
+Success in our project is constructing a slingshot in a safe and ethical way thay successfully launches a ball which contains a Pico and accelerometer. The accelerometer must also collect the data of its acceleration which can be read when plugged into a computer after the launch.
 
-
-
+* Safety Concern 1: Slingshot falls over
+  * In order to prevent the slingshot from falling on a person 😱😱😱. We will put a weight on the bottom of the slingshot in which the weight exceeds the horizontal component of the tension force from the band, therefore preventing the slingshot from falling
+ 
 
 
 
