@@ -36,7 +36,11 @@ Success in our project is constructing a slingshot in a safe and ethical way tha
 
 
 ## What do we need to learn?
-
+* How slingshots work
+* How tomake the launcher safe
+* How the circuit boards work
+* How to collect data correctly
+* how to successfully build the slingshot.
 
 
 
