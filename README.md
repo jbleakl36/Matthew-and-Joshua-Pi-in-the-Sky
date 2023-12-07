@@ -42,7 +42,8 @@ Success in our project is constructing a slingshot in a safe and ethical way tha
 * How to collect data correctly
 * how to successfully build the slingshot.
 
-
+## How will the final project function
+The final project will involve two wooden beams in a vertical position with a large band attached. we will pull back the band with a holster connected and a foam ball containing a pico and accelerometer. when released the ball will launch a distance and the accelerometer will collect data. We will then plug in the Pico and if the data is displayed then our project will have been successfull.
 
 
 
