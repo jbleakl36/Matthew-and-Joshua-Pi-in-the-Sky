@@ -35,7 +35,7 @@ Success in our project is constructing a slingshot in a safe and ethical way tha
   * We do not want the slingshot to backfire and hit someone in the face or worse 😭. Because of this we will have the launcher take safety precasuions like getting out of the way when they launch.
 
 
-
+## What do we need to learn?
 
 
 
