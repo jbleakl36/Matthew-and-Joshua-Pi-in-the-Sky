@@ -1,5 +1,6 @@
 # Matthew-and-Joshua-Pi-in-the-Sky
 
+![cloud-sky](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/3e2e70ff-4701-4a3e-bbe7-f9a26296c01f)
 
 ## Planning
 
