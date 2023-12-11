@@ -54,6 +54,8 @@ The final project will involve two wooden beams in a vertical position with a la
 
 1/2/24 - 1/5/23 - Finish code!!!!
 
+5/17/23 - finish project
+
 
 
 
