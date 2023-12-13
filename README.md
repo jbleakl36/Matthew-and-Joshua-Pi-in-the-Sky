@@ -60,6 +60,9 @@ The final project will involve two wooden beams in a vertical position with a la
 
 5/17/23 - finish project
 
+## Code
+
+we dont have a coplete code but [this](
 
 
 
