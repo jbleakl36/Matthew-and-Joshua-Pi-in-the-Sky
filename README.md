@@ -52,18 +52,21 @@ The final project will involve two wooden beams in a vertical position with a la
 
 12/11/23 - 12/15/23 - Begin to construct code
 
-1/2/24 - 1/5/23 - Finish code!!!!
+1/2/24 - 1/5/24 - Finish code!!!!
 
-1/6/23 - 1/12/23 - finish and test protoype
+1/6/24 - 1/12/24 - 
 
-1/13/23 - 5/16/23 - Improve prototype and create the final project
+1/15/24 - 1/19/24 - 
+
+1/22/24 -1/25/24 -
+
+1/29/24 - 2/2/24
 
 5/17/23 - finish project
 
 ## Code
 
-We dont have a complete code but [this](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Data) is some code from a previous assignment that will look very similer to our final. It collects the acceleration of all the values.
-
+https://github.com/jbleakl36/Engineering_4_Notebook/blob/main/raspberry-pi/JoshandMatt.py
 
 
 
