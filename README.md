@@ -62,7 +62,7 @@ The final project will involve two wooden beams in a vertical position with a la
 
 ## Code
 
-we dont have a complete code but [this](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Data) is some code from a previous assignment that will look very similer to our final. It collects the acceleration of all the values.
+We dont have a complete code but [this](https://github.com/matthewbowling123/Engineering_4_Notebook/blob/main/raspberry-pi/Data) is some code from a previous assignment that will look very similer to our final. It collects the acceleration of all the values.
 
 
 
