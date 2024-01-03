@@ -52,17 +52,45 @@ The final project will involve two wooden beams in a vertical position with a la
 
 12/11/23 - 12/15/23 - Begin to construct code
 
-1/2/24 - 1/5/24 - Finish code!!!!
+1/2/24 - 1/5/24 - Work on code
 
-1/6/24 - 1/12/24 - 
+1/6/24 - 1/12/24 - Work on code
 
-1/15/24 - 1/19/24 - 
+1/15/24 - 1/19/24 - Finish the code!!
 
-1/22/24 -1/25/24 -
+1/22/24 -1/25/24 - Begin building the project (Slingshot + Ball)
 
-1/29/24 - 2/2/24
+1/29/24 - 2/2/24 - Continue to build the project (Slingshot + Ball)
 
-5/17/23 - finish project
+2/5/24 - 2/8/24 - Continue to build the project (Slingshot + Ball)
+
+2/12/24 - 2/16/24 - Finish building the project (Slingshot + Ball)
+
+2/20/24 - 2/23/24 - Begin optimizing project
+
+2/26/24 - 3/1/24 - Optimize project
+
+3/4/24 - 3/8/24 - Optimize project
+
+3/11/24 - 3/14/24 - Finish optimizing project
+
+3/18/24 - 3/22/24 - Test project
+
+3/25/24 - 3/28/24 - Continue testing project
+
+4/8/24 - 4/12/24 - Continue testing project
+
+4/15/24 - 4/19/24 - Finish testing project
+
+4/22/24 - 4/26/24 - Begin documentation
+
+4/29/24 - 5/3/24 - Continue documenting
+
+5/6/24 - 5/9/24 - Finish documentation
+
+5/13/24 - (Matthew is here, Joshua is gone cause of the AP CALC test)
+
+5/15/24 -5/17/24 - Finish Project 😃😃😃😃😃😃😃😃
 
 ## Code
 
