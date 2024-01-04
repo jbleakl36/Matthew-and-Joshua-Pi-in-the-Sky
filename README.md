@@ -62,7 +62,7 @@ The final project will involve two wooden beams in a vertical position with a la
 
 1/29/24 - 2/2/24 - Continue to build the project (Slingshot + Ball)
 
-2/5/24 - 2/8/24 - Continue to build the project (Slingshot + Ball)
+2/5/24 - 2/8/24 - Continue to build the project (Slingshot + Ball) 
 
 2/12/24 - 2/16/24 - Finish building the project (Slingshot + Ball)
 
