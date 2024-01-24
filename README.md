@@ -47,7 +47,8 @@ Success in our project is constructing a slingshot in a safe and ethical way tha
 The final project will involve two wooden beams in a vertical position with a large band attached. It will behave exactly like a slingshot. We will pull back the band with the holster connected which contains the foam ball in which the pico and accelerometer are inside. When released, the ball will launch and travel a various distance far away from the origin and the accelerometer will collect the total acceleration data. We will then plug in the Pico into the computer and if the data is displayed then our project will have been successful.
 
 ## Block Diagram
-![unnamed](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979288/cffc0fb1-5573-4104-af17-77f2457c18d3)
+![unnamed (1)](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979288/7d01cb8d-217d-4986-bb3b-099da13598c0)
+
 
 
 ## Schedule ⏰⏰⏰ 
