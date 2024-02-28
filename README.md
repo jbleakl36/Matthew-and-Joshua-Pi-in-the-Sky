@@ -7,10 +7,14 @@
 ## Rough sketches, various ideas
 ![IMG_1553](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/18cefcdd-f35f-4254-83b2-22e7d85161cb)
 
+![0](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/a526b685-7b36-4c37-bfae-022ebf034094)
+
+
 ## Slingshot is our choice!!
 
 ![0](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/cb3f4352-692a-481a-b636-48cc2c99698f)
 
+![0](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/31abe73a-8c44-405e-9eea-0955b376e2f8)
 
 
 ## Materials
@@ -48,7 +52,6 @@ The final project will involve two wooden beams in a vertical position with a la
 
 ## Block Diagram
 ![unnamed (1)](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979288/7d01cb8d-217d-4986-bb3b-099da13598c0)
-
 
 
 ## Schedule ⏰⏰⏰ 
@@ -100,6 +103,16 @@ The final project will involve two wooden beams in a vertical position with a la
 ## Code 🖥️🖥️🖥️
 
 https://github.com/jbleakl36/Engineering_4_Notebook/blob/main/raspberry-pi/JoshandMatt.py
+
+### Planning for code (Brainstorming)
+
+![0](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/655e4592-9658-4b82-8edd-46705d2e3678)
+
+![0](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/119aa25e-4fee-4e87-86fb-64cb1f566f2f)
+
+## Wiring Diagram
+
+![0](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/f068f053-7974-4952-ad44-fb27f044cbd3)
 
 ## CAD
 For this project we needed to design a projectile that could fit our Pico and circuit board and also be secure enough to protect it as well as small enough to fit into the slingshot.
