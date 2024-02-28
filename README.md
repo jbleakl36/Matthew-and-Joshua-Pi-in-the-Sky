@@ -101,7 +101,8 @@ The final project will involve two wooden beams in a vertical position with a la
 
 https://github.com/jbleakl36/Engineering_4_Notebook/blob/main/raspberry-pi/JoshandMatt.py
 
-
+## CAD
+For this project we needed to design a projectile that could fit our Pico and circuit board and also be secure enough to protect it as well as small enough to fit into the slingshot.
 
 
 
