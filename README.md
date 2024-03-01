@@ -118,13 +118,15 @@ https://github.com/jbleakl36/Engineering_4_Notebook/blob/main/raspberry-pi/Josha
 For this project we needed to design a projectile that could fit our Pico and circuit board and also be secure enough to protect it as well as small enough to fit into the slingshot.
 
 ### The Projectile.
-for this we designed a hollow area with a dome on top that could fit the Pico and Circuit board. The dome is removable by use of a coil which srews it in and out whenever needed.
+For this we designed a hollow area with a dome on top that could fit the Pico and Circuit board. The dome is removable by use of a coil which srews it in and out whenever needed.
 ![Part Studio 1](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979288/6c663990-cd68-414d-be08-863b9f77f3e6)
 ![Part Studio 1 (1)](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979288/41750a15-e077-451d-8abc-6544ceddff18)
 
+### The Battery Holder
+We had to create this part because of the possibility that the battery might during the launching process. It is a friction fit designed to keep the battery in place. There is a little slit for the wire and a hole for the screw and the bolt so that the screw won't continueously spin.
+![Part Studio 3](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/6757e246-862b-4ae5-a981-1c5008e400ec)
 
-
-
+![Part Studio 3 (1)](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/2f1bb23c-2bde-4b4e-872a-599645ca5401)
 
 
 
