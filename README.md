@@ -117,6 +117,11 @@ https://github.com/jbleakl36/Engineering_4_Notebook/blob/main/raspberry-pi/Josha
 ## CAD
 For this project we needed to design a projectile that could fit our Pico and circuit board and also be secure enough to protect it as well as small enough to fit into the slingshot.
 
+### The Projectile.
+for this we designed a hollow area with a dome on top that could fit the Pico and Circuit board. The dome is removable by use of a coil which srews it in and out whenever needed.
+![Part Studio 1](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979288/6c663990-cd68-414d-be08-863b9f77f3e6)
+![Part Studio 1 (1)](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979288/41750a15-e077-451d-8abc-6544ceddff18)
+
 
 
 
