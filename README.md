@@ -129,6 +129,11 @@ We had to create this part because of the possibility that the battery might dur
 ![Part Studio 3 (1)](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/2f1bb23c-2bde-4b4e-872a-599645ca5401)
 
 
+### The Slingshot
+
+![slingpart](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/adf0712b-a128-4e32-b944-7f004d9edf69)
+
+![It's all coming together](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/d1875373-4f2a-49d9-ba2a-ce4821d54c78)
 
 
 
