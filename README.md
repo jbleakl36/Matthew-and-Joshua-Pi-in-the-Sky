@@ -130,7 +130,7 @@ We had to create this part because of the possibility that the battery might dur
 
 
 ### The Slingshot
-
+For this part of the project we had to design a part of the slingshot the would be transortable and contain the sling. We decided to make two pillars supported by diagnal beams and connected throgh a beam between them.
 ![slingpart](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/adf0712b-a128-4e32-b944-7f004d9edf69)
 
 ![It's all coming together](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/d1875373-4f2a-49d9-ba2a-ce4821d54c78)
