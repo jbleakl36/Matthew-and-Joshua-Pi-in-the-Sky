@@ -130,17 +130,23 @@ We had to create this part because of the possibility that the battery might dur
 
 
 ### The Slingshot
-For this part of the project we had to design a part of the slingshot the would be transortable and contain the sling. We decided to make two pillars supported by diagnal beams and connected throgh a beam between them.
+For this part of the project we had to design a part of the slingshot the would be transortable and contain the sling. We decided to make two pillars supported by diagnal beams and connected through a beam between them.
 ![slingpart](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/adf0712b-a128-4e32-b944-7f004d9edf69)
 
 ![It's all coming together](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/d1875373-4f2a-49d9-ba2a-ce4821d54c78)
 
 
 
+## Graphing our initial launch test
+After we launched out projectile for the first time, we recorded the data through out pico and created two graphs based on said collected data.
 
+![Graph beta 1](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/e4a48ac1-e40a-48cb-9cc8-4b506faa0037)
 
+This graph shows the acceleration, Y magnitude, Z magnitude. It spike at the inital launch and then it became consistant when it landed on the ground.
 
+![Graph beta 2](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979207/fa599ba5-41f7-41ba-8a5f-cc2e8b7431bf)
 
+This graph shows the Y and Z direction, the vertical side is representative of the pheta or the angle. It is very scattered due to the fact that the projectile was spinning through the air during launch.
 
 
 
