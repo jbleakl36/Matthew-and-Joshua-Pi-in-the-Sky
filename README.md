@@ -150,10 +150,10 @@ This graph shows the Y and Z direction, the vertical side is representative of t
 
 
 
-
-
-
-
+### The building process
+We needed to find some good pieces of wood in order to make our slingshot. Mr. Miller required that we create our design in onshape (including the screws) before we start to physically building our slingshot. We found some good pieces of wood
+on of which we could split in half to create the two central parts of the project. We found 8 screws for our project, we plan to use them to secure the various parts in our project. We need some long pieces of wood in order to secure the slingshot in place. 
+We don't want it to fly off balance when we launch our projectile.
 
 
 
