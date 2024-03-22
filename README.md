@@ -156,9 +156,7 @@ on of which we could split in half to create the two central parts of the projec
 We don't want it to fly off balance when we launch our projectile.
 
 
-
-
-
+![Screenshot 2024-03-22 103112](https://github.com/jbleakl36/Matthew-and-Joshua-Pi-in-the-Sky/assets/112979288/7a66c66f-51ed-4a1d-bbc7-75644ea402d5)
 
 
 
